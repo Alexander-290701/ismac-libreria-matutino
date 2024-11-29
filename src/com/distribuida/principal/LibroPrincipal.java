@@ -23,7 +23,7 @@ public class LibroPrincipal {
        
 		// Crear una instancia de Libro
        
-		Libro libro = new Libro(1, "Cien años de soledad", "Editorial XYZ", 400, "1ra edición", "Español", 1967, 
+		Libro libro = new Libro(1, "El abismo", "Editorial 1234", 400, "3ra edición", "Español", 1850, 
                
 				"Un libro muy famoso de Gabriel García Márquez", "Tapa dura", "978-3-16-148410-0", 5, "portada.jpg", 
                 
